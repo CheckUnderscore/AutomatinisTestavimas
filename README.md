@@ -1,0 +1,2 @@
+# AutomatinisTestavimas
+Praktinis
